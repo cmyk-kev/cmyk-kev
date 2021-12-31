@@ -2,4 +2,3 @@
 
 Portifolio em construção : https://cmyk-kev.github.io/portifolio/index.html
 ---
-https://cmyk-kev.github.io/devfinances/
